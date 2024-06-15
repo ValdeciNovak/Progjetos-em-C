@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717883566 source:c:\users\ana\downloads\c\gerenciamento de matrix\gerenciamento de matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717881420 source:c:\users\ana\downloads\c\arrumando print.c
+
+1717883817 source:c:\users\ana\downloads\c\gerenciamento de matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
